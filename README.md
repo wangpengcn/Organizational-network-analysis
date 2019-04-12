@@ -1,5 +1,5 @@
 # Organizational Network Analysis (ONA)
-![image](./figures/Organizational network.jpg)
+![image](./figure/Organizational network.jpg)
 
 In every organization, people build and rely on informally-built networks seeking for information, advice, and collaborations. Often the invisible people networks are different from the formal organization hierarchy. Uncovering the informal but effective networks and understanding how information in the organization flows become crucial and enormously valuable to organization leaders.
 
